@@ -9,3 +9,4 @@
 - [Multi-Paradigm HPC Suite (OpenMP, CUDA, MPI)](https://github.com/Hobbbit31/COL7880)
 - [SwapForge: Extending the xv6 Kernel](https://github.com/Hobbbit31/OS)
 - [Extending RetroWrite: Binary Instrumentation for Fuzzing](https://github.com/Hobbbit31/SIL7165) — main project (other assignments also in repo)
+- [Cache-Aware Optimization of the ESKAPE Nanopore Sequencing](https://github.com/KathpaliaChirag/Nanopore-project) — group project, converted to M.Tech thesis (with Chirag Kathpalia)
