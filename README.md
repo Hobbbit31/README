@@ -6,3 +6,4 @@
 - [Cache-Blocked AVX-512 GEMM](https://github.com/Hobbbit31/COL7418) — ass5-6
 - [Systems Programming and Language Toolchain](https://github.com/Hobbbit31/COP7001) — ass1-5 (combined = ass6)
 - [Deterministic Parallel Event-Driven VHDL Simulator](https://github.com/Hobbbit31/Conerstone-project)
+- [Multi-Paradigm HPC Suite (OpenMP, CUDA, MPI)](https://github.com/Hobbbit31/COL7880)
