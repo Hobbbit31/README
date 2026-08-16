@@ -8,3 +8,4 @@
 - [Deterministic Parallel Event-Driven VHDL Simulator](https://github.com/Hobbbit31/Conerstone-project)
 - [Multi-Paradigm HPC Suite (OpenMP, CUDA, MPI)](https://github.com/Hobbbit31/COL7880)
 - [SwapForge: Extending the xv6 Kernel](https://github.com/Hobbbit31/OS)
+- [Extending RetroWrite: Binary Instrumentation for Fuzzing](https://github.com/Hobbbit31/SIL7165) — main project (other assignments also in repo)
